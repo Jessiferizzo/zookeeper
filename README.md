@@ -26,7 +26,7 @@
   # Usage
   run server.js
 
-  📷 ![screenshot of zookeeper](../zookeeper/public/assets/images/Screen%20Shot%202022-05-23%20at%201.08.39%20AM.png)
+  📷 ![screenshot of zookeeper](public/assets/images/Screen%20Shot%202022-05-23%20at%201.08.39%20AM.png)
   
   🎥
   
